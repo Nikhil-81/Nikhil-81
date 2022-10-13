@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Nikhil Walwatkar</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stacck , I love to learn new technology and implement it in my projecs ✨.</h4>
+<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack , I love to learn new technology and implement it in my projecs ✨.</h4>
 
 🌍 I'm based in Nagpur, India
 
