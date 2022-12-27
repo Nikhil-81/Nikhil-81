@@ -41,9 +41,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-81&theme=chartreuse-dark)
 
-
-![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikhil-81&theme=dracula)
-
 <!--
 **Nikhil-81/Nikhil-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
