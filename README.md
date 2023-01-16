@@ -36,7 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Nikhil-81&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil-81&theme=dark)](https://git.io/streak-stats)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-81&theme=chartreuse-dark)
