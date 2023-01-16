@@ -39,7 +39,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil-81&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil-81&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil-81&theme=monokai&utcOffset=8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-81&theme=chartreuse-dark)
 
 <!--
 **Nikhil-81/Nikhil-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
