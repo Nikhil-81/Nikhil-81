@@ -36,9 +36,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil-81&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil-81&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil-81&theme=monokai&utcOffset=8)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-81&theme=chartreuse-dark)
 
 <!--
