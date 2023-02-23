@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Nikhil Walwatkar</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack , I love to creat web platform that propple the organization growth and to learn new technology and implement it in my projecs. Some technologies that i enjoy working with includes React js, Node js , javascript and typescript✨.</h4>
+<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack , I love to create web platform that propel the organization growth and to learn new technology and implement it in my projects. Some technologies that i enjoy working with includes React js, Node js , JavaScript and typescript✨.</h4>
 
 🌍 I'm based in Nagpur, India
 
@@ -7,7 +7,7 @@
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap.
 
-😃 My interest includes Desinging beautifull and fully functional websites ,my intrest also lies in setting Passive Bussines and Fainance,and Aquascaping .
+😃 My interest includes Desinging beautifull and fully functional websites ,my intrest also lies in setting Passive Bussines and Finance,and Aquascaping .
 
 📧 Email - nikhilwalwatkar81@gmal.com
 
