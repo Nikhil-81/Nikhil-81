@@ -1,5 +1,15 @@
 <h1 align="center">Hi I'm Nikhil Walwatkar</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack , I love to create web platform that propel the organization growth and to learn new technology and implement it in my projects. Some technologies that i enjoy working with includes React js, Node js , JavaScript and typescript✨.</h4>
+<h4 align="center">I'm a Software Engineer with 1 years of experience in, React,state management like Redux and Redux toolkit with proficiency in web technologies like HTML5, CSS3,tailwind css, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. 
+
+✨ Well-versed with SDLC, Version control system (GIT), and design platform (Figma).
+
+✨ Languages: React, Typescript, NodeJS, JavaScript,
+
+✨ Web technology : HTML5, CSS3,tailwind css
+
+✨ Bootsrap4, Material UI, Chackra UI
+
+✨ Strong knowledge of Data structure and Algorithms</h4>
 
 🌍 I'm based in Nagpur, India
 
