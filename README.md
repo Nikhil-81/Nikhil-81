@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Nikhil Walwatkar</h1>
-<h4 align="center">I'm a Software Engineer with 1 years of experience in, React,state management like Redux and Redux toolkit with proficiency in web technologies like HTML5, CSS3,tailwind css, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. 
+<h4 align="center">I'm a Software Engineer with 1 years of experience in, React,state management like Redux and Redux toolkit with proficiency in web technologies like HTML5, CSS3,tailwind css, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. </h4>
 
 ✨ Well-versed with SDLC, Version control system (GIT), and design platform (Figma).
 
@@ -9,7 +9,8 @@
 
 ✨ Bootsrap4, Material UI, Chackra UI
 
-✨ Strong knowledge of Data structure and Algorithms</h4>
+✨ Strong knowledge of Data structure and Algorithms
+
 
 🌍 I'm based in Nagpur, India
 
