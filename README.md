@@ -1,9 +1,9 @@
 <h1 align="start">Hi I'm Nikhil Walwatkar</h1>
-<h4 align="start">I'm a Software Engineer with 1 years of experience in, React,state management like Redux and Redux toolkit with proficiency in web technologies like HTML5, CSS3,tailwind css, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. </h4>
+<h4 align="start">As a Software Engineer with one year of experience, I specialize in front-end development, proficient in technologies such as React.js, Redux, and Redux Toolkit for state management. Additionally, I possess expertise in web technologies like HTML5, CSS3, and tailwind CSS, enabling me to create responsive and visually appealing user interfaces. My back-end skills include working with AWS services such as AppSync, Amplify, AWS SDK, and Lambda functions, allowing me to develop scalable solutions for large-scale web applications. Furthermore, I have experience implementing user authentication using Firebase, ensuring secure access to web applications. Overall, my combination of front-end and back-end proficiency, along with experience in deploying and maintaining applications on AWS, makes me well-equipped to contribute effectively to complex web development projects. </h4>
 
 ✨ Well-versed with SDLC, Version control system (GIT), and design platform (Figma).
 
-✨ Languages: React, Typescript, NodeJS, JavaScript,
+✨ Languages: React, Typescript, JavaScript,
 
 ✨ Web technology : HTML5, CSS3,tailwind css
 
@@ -16,7 +16,7 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack & Arduino,.
 
-🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap.
+🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap, tailwind css.
 
 😃 My interest includes Desinging beautifull and fully functional websites ,my intrest also lies in setting Passive Bussines and Finance,and Aquascaping .
 
